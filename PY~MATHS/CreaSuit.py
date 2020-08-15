@@ -1,0 +1,5 @@
+U1=int(input("Que vaut U1 ? ~"))
+r=int(input("Que vaut r ? ~"))
+v=int(input("Jusque ? ~"))
+resul = list(range(U1, v, r))
+print(resul)
